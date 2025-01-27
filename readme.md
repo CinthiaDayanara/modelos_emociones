@@ -1,0 +1,1 @@
+modelos de entrenamiento con vgg16 y una creada desde cero para la clasificacion de emociones
